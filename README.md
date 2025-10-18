@@ -71,10 +71,4 @@ The notebook includes:
 | `netflix_titles.csv` | Original dataset (not included if large) |
 | `README.md` | Project documentation (this file) |
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/netflix-eda-project.git
